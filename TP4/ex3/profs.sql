@@ -1,0 +1,9 @@
+INSERT INTO profs (num, nom, prenom) VALUES (1,'Abraham','Lincoln');
+INSERT INTO profs (num, nom, prenom) VALUES (2,'Grover','Cleveland');
+INSERT INTO profs (num, nom, prenom) VALUES (3,'Theodore','Roosevelt');
+INSERT INTO profs (num, nom, prenom) VALUES (4,'William','Howard');
+INSERT INTO profs (num, nom, prenom) VALUES (5,'Calvin','Coolidge');
+INSERT INTO profs (num, nom, prenom) VALUES (6,'Franklin','Roosevelt');
+INSERT INTO profs (num, nom, prenom) VALUES (7,'Ronald','Reagan');
+INSERT INTO profs (num, nom, prenom) VALUES (8,'Bill','Clinton');
+INSERT INTO profs (num, nom, prenom) VALUES (9,'Barack','Obama');
